@@ -1,0 +1,20 @@
+#list,
+.title{
+    font-weight: 600;
+    font-size: 36px;
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.sub{
+    font-size: 24px;
+}
+
+img{
+    height: auto;
+    width: 400px;
+}
+
+#list{
+    font-size: 18px;
+}
