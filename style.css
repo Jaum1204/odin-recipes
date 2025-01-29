@@ -1,13 +1,31 @@
+body{
+    margin: auto 550px;
+}
+
 #list,
 .title{
     font-weight: 600;
     font-size: 36px;
-    color: blue;
+    color: white;
     font-family: 'Courier New', Courier, monospace;
+}
+
+.box{
+    background-color: bisque;
+    border: 10px solid grey;
+    box-sizing: border-box;
+    padding: 10px;
+    width: 400px;
+    margin: 10px 0px;
+}
+
+.span-test{
+    background-color: aliceblue;
 }
 
 .sub{
     font-size: 24px;
+    color: black;
 }
 
 img{
@@ -17,4 +35,15 @@ img{
 
 #list{
     font-size: 18px;
+    color: grey;
 }
+
+.box-test{ 
+    background-color: grey;
+    padding: 30px;
+    box-sizing: border-box;
+    height: 105px;
+    width: 400px;
+    text-align: center;
+}
+
